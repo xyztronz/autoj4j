@@ -80,5 +80,5 @@ client.on("ready", () => {
      oxi.send("My Leopard For Dough"); //oxi
   }, 500); //oxi
 });
-client.login("OTg2ODcyMTExNjY0NjA3MjMy.GCO2nF.IlXLQXqqRHd5Rzgf3wyuezsVtUnW4HSPJb5OKM") // your token
+client.login("OTg2ODcxMTU4ODMxOTg0NjYw.GEA3HR.V9r04EwPwI6Hgf1WGeXNj3Y923ibLYt9D-zhCM") // your token
 
